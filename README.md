@@ -42,7 +42,7 @@ Model Training
 CONCLUSION: 
 
 - KMEANS Clustering has better silhouette score than other models, therefore it is best for clustering.  
-- Customers having reviews with more than 0.6 sentiment score are most likely to be loyal customers and fall under CLUSTER 0 & 1. 
+- Customers having reviews with more than 0.6 sentiment score are most likely to be loyal customers and fall under CLUSTER 0 & 2. 
 - Customers having reviews with less than 0.6 sentiment score are not likely to be repetitive customers and fall under CLUSTER 2. 
 - Customers who are likely to be repetitive buyers (Cluster 0 & 2) are more than 50%. 
 - Customers who belong to Cluster 1 have less sentiment score and are not likely to purchase again, so the products they purchased needs to be checked for Customer Retention Strategy.
